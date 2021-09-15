@@ -1,0 +1,21 @@
+﻿Build started 15-01-2021 13:10:51.
+     1>Project "D:\Speech\Vowel Detection\Vowel Detection\Vowel Detection.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Vowel Detection.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Vowel Detection.unsuccessfulbuild".
+         Touching "Debug\Vowel Detection.lastbuildstate".
+     1>Done Building Project "D:\Speech\Vowel Detection\Vowel Detection\Vowel Detection.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
